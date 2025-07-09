@@ -6,6 +6,7 @@
     "signIn": "Sign In",
     "signUp": "Sign Up",
     "profile": "Profile",
+    "friends": "Friends",
     "users": "Users",
     "logout": "Logout"
   },
@@ -32,6 +33,9 @@
     "stay": "Stay on Page",
     "leave": "Leave Page"
   },
+  "success": "Success",
+  "error": "Error",
+  "refresh": "Refresh",
   "auth": {
     "facebook": {
       "action": "Login with Facebook"

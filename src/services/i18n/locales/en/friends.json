@@ -1,0 +1,58 @@
+{
+  "title": "Friends",
+  "sendRequest": "Send Friend Request",
+  "sentRequests": "Sent Requests",
+  "receivedRequests": "Received Requests",
+  "friendsList": "Friends",
+  "searchUsers": "Search Users",
+  "addFriend": "Add Friend",
+  "searchPlaceholder": "Search for users by name, username or email...",
+  "noFriends": "No friends yet",
+  "noSentRequests": "No sent requests",
+  "noReceivedRequests": "No received requests",
+  "noUsersFound": "No users found",
+  "actions": {
+    "accept": "Accept",
+    "reject": "Reject",
+    "cancel": "Cancel",
+    "remove": "Remove Friend"
+  },
+  "status": {
+    "pending": "Pending",
+    "accepted": "Accepted",
+    "rejected": "Rejected",
+    "cancelled": "Cancelled"
+  },
+  "messages": {
+    "requestSent": "Friend request sent successfully!",
+    "requestAccepted": "Friend request accepted!",
+    "requestRejected": "Friend request rejected!",
+    "requestCancelled": "Friend request cancelled!",
+    "friendRemoved": "Friend removed successfully!",
+    "userNotFound": "User not found",
+    "requestAlreadyExists": "Friend request already exists",
+    "cannotSendToSelf": "Cannot send friend request to yourself",
+    "noUsername": "User has no username",
+    "searchError": "Error searching users"
+  },
+  "profile": {
+    "title": "User Profile",
+    "itsYou": "It's you!",
+    "alreadyFriends": "Already friends",
+    "requestPending": "Request pending",
+    "highscores": "Leaderboard Scores",
+    "leaderboard": "Leaderboard",
+    "score": "Score",
+    "date": "Date",
+    "noScores": "No scores available"
+  },
+  "forms": {
+    "sendRequest": {
+      "title": "Send Friend Request",
+      "username": "Username",
+      "usernamePlaceholder": "Enter username",
+      "usernameRequired": "Username is required",
+      "submit": "Send Request"
+    }
+  }
+}

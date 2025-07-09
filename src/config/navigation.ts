@@ -15,6 +15,10 @@ const createNavigationConfig = (): NavigationItem[] => [
     path: "/",
   },
   {
+    label: "common:navigation.friends",
+    path: "/friends",
+  },
+  {
     label: "common:navigation.users",
     path: "/admin-panel/users",
     roles: [RoleEnum.ADMIN],
